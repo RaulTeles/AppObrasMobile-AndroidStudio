@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214471755058",
+    "project_id": "disk-obras",
+    "storage_bucket": "disk-obras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214471755058:android:749eb200f464aa5317432b",
+        "android_client_info": {
+          "package_name": "com.example.projeto_app_obras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214471755058-acvkrjp1ophe98st72b1gvgbn4qu8aba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYk6PajVIeGIfcR2hAGFqYW6L7uEZgb-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214471755058-acvkrjp1ophe98st72b1gvgbn4qu8aba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
